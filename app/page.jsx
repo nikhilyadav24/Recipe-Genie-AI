@@ -147,7 +147,7 @@ export default function Page() {
             <p>
               Open Source & Available on{" "}
               <Link
-                href="https://github.com/kom-senapati/Recipe-Genie-AI"
+                href="https://github.com/nikhilyadav24/Recipe-Genie-AI/tree/main"
                 className="text-primary"
               >
                 GitHub
