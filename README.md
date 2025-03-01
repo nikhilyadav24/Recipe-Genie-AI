@@ -45,6 +45,4 @@ To get started with Recipe Genie:
 3. Run `npm install` to install dependencies.
 4. Run `npm run dev` to start the development server.
 
-## **About the Author:**
-Hi, I'm K Om Senapati!
-Connect with me on [LinkedIn](https://www.linkedin.com/in/kom-senapati) and check out my other projects on [GitHub](https://github.com/kom-senapati).
+
